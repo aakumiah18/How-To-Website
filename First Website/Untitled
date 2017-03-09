@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <!--Hyper Text Markup Language -->
+  <html>
+    <head>
+      <title>Baking Cake 4 Dummies</title>
+      <link rel="stylesheet" type="text/css" href="teamweb.css">
+    </head>
+    <body>
+      <h1>Steps 2 Baking a Dope Cake</h1>
+      <img src="Donut.png" style="width: 400px"></a>
+      <br>
+      <br>
+        <img src= "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiz5fPr-LLSAhXD7YMKHeTOCuwQjRwIBw&url=http%3A%2F%2Fwww.laroccacakes.com%2Fproduct-category%2Fround-cakes%2F&bvm=bv.148073327,d.amc&psig=AFQjCNGjVQ1Eb-63-3MBZRI4b5OnJpEUWg&ust=1488376499123902" style="width:30%"
+        <br>
+        <br>
+        <a href="page2.html">Click for page 2</a>
+        <h3>List of stuff I like</h3>
+          <ul>
+            <li>Justin Bieber</li>
+            <li>Food</li>
+            <li>PDT</li>
+            <li>Art</li>
+            <li>The 1975</li>
+          </ul>
+          <h3>List of Stuff I DON'T liKE</h3>
+          <ol>
+            <li>School</li>
+            <li>The color Orange</li>
+            <li>Bananas</li>
+            <li>Gucamole</li>
+          <img class="jasmine" src= "http://25.media.tumblr.com/ddb1f6dcbfc23daf5b2896a385820e1b/tumblr_mw0n9jKq331t0dfb8o1_500.gif"
+          <img class="tiana" src= "https://31.media.tumblr.com/d0e086eca198e6b2e2e45f2740fa2c0b/tumblr_inline_n5q12ljTku1rezi6d.gif"
+          <img class="moana" src= "http://images6.fanpop.com/image/photos/39600000/Disney-Princess-Gifs-Princess-Moana-disney-princess-39690536-370-365.gif"
+    </body>
+  </html>
